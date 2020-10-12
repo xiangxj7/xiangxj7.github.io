@@ -38,12 +38,12 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: Xiang Xujie
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: xiangxj7
+location: BUAA, Beijing, China
+email: xiangxj@buaa.edu.cn
 
 # ---------------- #
 #    Navigation    #
@@ -146,10 +146,10 @@ simple_jekyll_search:
 # ---------------- #
 #      Google      #
 # ---------------- #
-google:
-    analytics_id: UA-80669434-1
-    adsense:
-        footer: true
-        sidebar: true 
-        content_header: true
-        content_footer: false
+# google:
+#     analytics_id: UA-80669434-1
+#     adsense:
+#         footer: true
+#         sidebar: true 
+#         content_header: true
+#         content_footer: false
