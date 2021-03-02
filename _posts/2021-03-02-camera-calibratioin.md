@@ -6,6 +6,8 @@ description: some word here
 keywords: camera, calibration,相机,标定
 ---
 
+https://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&mid=2247515670&idx=1&sn=6f541fb6f2e31da9c5ebf0c10572405b&chksm=fbfc9522cc8b1c348ba3930434af73c44ce47b9125d53993978a5e7444f0d40c8f8e051e280e&mpshare=1&scene=1&srcid=0901E8zGsyJVisc0YOMKk0hP&sharer_sharetime=1598921530120&sharer_shareid=08a5efa40af25b6a57bd07cf52cdcd42&exportkey=A%2BzpO14Hm%2B%2BtTlV2doeS%2FrY%3D&pass_ticket=VFym6tWmMYTynclyYndTKGDlNmXIUaVuujgbcIOF%2FdaG%2B9ys7x1alUP808vJ9%2FAv&wx_header=0#rd
+
 ### 1 相机标定的定义
 
 任何传感器都存在有误差，狭义的相机标定就是校正这部分误差，让传感器尽量准确一点。
